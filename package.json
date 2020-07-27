@@ -1,0 +1,27 @@
+{
+  "name": "charliescript-starwars-library",
+  "version": "1.0.0",
+  "description": "get random starwars names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlieScript/starwars-library.git" 
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars"
+  ],
+  "author": "Onedibe C. Charles <gozione3@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/charlieScript/starwars-library/issues"
+  },
+  "homepage": "https://github.com/charlieScript/starwars-library#readme",
+  "dependencies": {
+    "unique-random-array": "2.0.0"
+  }
+}
